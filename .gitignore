@@ -1,0 +1,23 @@
+# 密钥文件（严禁提交到 Git！）
+.secret_key
+*.key
+.env
+
+# 传输中间文件与本地未加密内容（Git 仓库仅上传加密后的 payload.enc 或脚本规范）
+# 注意：tasks/ 目录下的明文仅保留在本地，打包加密为 payload.enc 后才随 Git 同步
+tasks/*
+!tasks/.gitkeep
+
+# 外网长期调研与归档目录（仅保留在外网本地，既不随 payload.enc 传入内网，也不被自动清理，严禁明文入 Git）
+archives/*
+!archives/.gitkeep
+
+# 临时二维码图片（解析完即删，不入库）
+*.png
+*.jpg
+*.jpeg
+*.webp
+qr_temp/
+
+# macOS 系统文件
+.DS_Store
