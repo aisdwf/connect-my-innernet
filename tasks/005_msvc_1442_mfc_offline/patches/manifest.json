@@ -1,0 +1,488 @@
+{
+  "channel": "VisualStudio.17.Release.LTSC.17.12",
+  "channelVersion": "17.12.22+37502.7",
+  "component": "Microsoft.VisualStudio.Component.VC.14.42.17.12.MFC",
+  "packages": [
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.14.42.17.12.MFC",
+      "version": "17.12.35410.122",
+      "type": "Component",
+      "payloads": []
+    },
+    {
+      "id": "Microsoft.VisualStudio.Component.VC.14.42.17.12.ATL",
+      "version": "17.12.35410.122",
+      "type": "Component",
+      "payloads": []
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.ATL.Headers",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.ATL.Headers.vsix",
+          "size": 8665,
+          "sha256": "adea23296901e6e0427158a233be58bd5ae6a30a5994964145ecd5a835e8dd60",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/adea23296901e6e0427158a233be58bd5ae6a30a5994964145ecd5a835e8dd60/Microsoft.VC.14.42.17.12.ATL.Headers.vsix",
+          "sizeCatalog": 1064
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.ATL.Headers.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.ATL.Headers.base.vsix",
+          "size": 581946,
+          "sha256": "7382e0d5262b9b29ec9375e8d503ef98fe0ee8a8780adea9956b5549894c948d",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/7382e0d5262b9b29ec9375e8d503ef98fe0ee8a8780adea9956b5549894c948d/Microsoft.VC.14.42.17.12.ATL.Headers.base.vsix",
+          "sizeCatalog": 575956
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.Servicing.ATL",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.Servicing.ATL.vsix",
+          "size": 9865,
+          "sha256": "9801aa18b475a30b69cb692b39d2ff6becdbf352f3bb48f1683831e8dd76f5c8",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/9801aa18b475a30b69cb692b39d2ff6becdbf352f3bb48f1683831e8dd76f5c8/Microsoft.VC.14.42.17.12.Servicing.ATL.vsix",
+          "sizeCatalog": 1974
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.Servicing",
+      "version": "14.42.34444",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.Servicing.vsix",
+          "size": 10063,
+          "sha256": "cf5f782a1810091b0b83205d5076d4c90ad776686aab5f42db797618d1885f01",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/6981b64e-b0fe-475e-960d-8b3b527821e0/cf5f782a1810091b0b83205d5076d4c90ad776686aab5f42db797618d1885f01/Microsoft.VC.14.42.17.12.Servicing.vsix",
+          "sizeCatalog": 2215
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.ATL.Source",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.ATL.Source.vsix",
+          "size": 8736,
+          "sha256": "b31ee5ac1bd7dd7d2c315fef947b96c4cbe5f43acb9f2a2054956243caf096a1",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/b31ee5ac1bd7dd7d2c315fef947b96c4cbe5f43acb9f2a2054956243caf096a1/Microsoft.VC.14.42.17.12.ATL.Source.vsix",
+          "sizeCatalog": 1063
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.ATL.Source.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.ATL.Source.base.vsix",
+          "size": 16578,
+          "sha256": "9f64840dbca3efdb64be184770b663dfd351c7bc24ffba8acbb23516490ceec2",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/9f64840dbca3efdb64be184770b663dfd351c7bc24ffba8acbb23516490ceec2/Microsoft.VC.14.42.17.12.ATL.Source.base.vsix",
+          "sizeCatalog": 8615
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.ATL.X64",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.ATL.X64.vsix",
+          "size": 8675,
+          "sha256": "4efda0c4fcf6afd45d6a3a8283ed165e02920656e7dd8f7b003f1be14d174514",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/4efda0c4fcf6afd45d6a3a8283ed165e02920656e7dd8f7b003f1be14d174514/Microsoft.VC.14.42.17.12.ATL.X64.vsix",
+          "sizeCatalog": 1062
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.ATL.X64.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.ATL.X64.base.vsix",
+          "size": 819477,
+          "sha256": "3a6ce8fc04c4ce8ff4e07adb98c6923fb7d948cff2438de351112c4bb2f6c6a7",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/3a6ce8fc04c4ce8ff4e07adb98c6923fb7d948cff2438de351112c4bb2f6c6a7/Microsoft.VC.14.42.17.12.ATL.X64.base.vsix",
+          "sizeCatalog": 818743
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.Props.ATLMFC",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.Props.ATLMFC.vsix",
+          "size": 10032,
+          "sha256": "b423d59bc018a626adc91e1fda548faa1bad873dc32716798991191338d459f4",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/b423d59bc018a626adc91e1fda548faa1bad873dc32716798991191338d459f4/Microsoft.VC.14.42.17.12.Props.ATLMFC.vsix",
+          "sizeCatalog": 2178
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.ATL.X86",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.ATL.X86.vsix",
+          "size": 8688,
+          "sha256": "4553651210c15a33f4d036c4d1e345d2cd7f1598c29daf65fd60ae0da6045c7f",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/4553651210c15a33f4d036c4d1e345d2cd7f1598c29daf65fd60ae0da6045c7f/Microsoft.VC.14.42.17.12.ATL.X86.vsix",
+          "sizeCatalog": 1062
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.ATL.X86.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.ATL.X86.base.vsix",
+          "size": 859601,
+          "sha256": "fc07e9ef5fa3542fefbaf892fda36c5ef8378957eb8c40e52eb61a26bbc4f543",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/fc07e9ef5fa3542fefbaf892fda36c5ef8378957eb8c40e52eb61a26bbc4f543/Microsoft.VC.14.42.17.12.ATL.X86.base.vsix",
+          "sizeCatalog": 859902
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.Headers",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.Headers.vsix",
+          "size": 8742,
+          "sha256": "5df26edb2b7f999697bedaae83c39ca2fadc08b8dcfc414c4143f850c4db7da5",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/5df26edb2b7f999697bedaae83c39ca2fadc08b8dcfc414c4143f850c4db7da5/Microsoft.VC.14.42.17.12.MFC.Headers.vsix",
+          "sizeCatalog": 1063
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.Headers.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.Headers.base.vsix",
+          "size": 2399389,
+          "sha256": "a15f860ca3e47aa1605f2bb3bd3c469edb49722da077a79b2e5887b126688b10",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/a15f860ca3e47aa1605f2bb3bd3c469edb49722da077a79b2e5887b126688b10/Microsoft.VC.14.42.17.12.MFC.Headers.base.vsix",
+          "sizeCatalog": 2367976
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.Servicing.MFC",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.Servicing.MFC.vsix",
+          "size": 9846,
+          "sha256": "f62797d4d79553b300b3ed574cb336ca554793ccdc0446987394ad1eba200362",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/f62797d4d79553b300b3ed574cb336ca554793ccdc0446987394ad1eba200362/Microsoft.VC.14.42.17.12.Servicing.MFC.vsix",
+          "sizeCatalog": 1977
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.MBCS",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.MBCS.vsix",
+          "size": 8663,
+          "sha256": "187dc5a795760f83d8473abef3e24c66d832caed77c2de1e511642935a2dc57a",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/187dc5a795760f83d8473abef3e24c66d832caed77c2de1e511642935a2dc57a/Microsoft.VC.14.42.17.12.MFC.MBCS.vsix",
+          "sizeCatalog": 1062
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.MBCS.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.MBCS.base.vsix",
+          "size": 27342075,
+          "sha256": "4570997359857c886f24e126ee1f5d03e21b4dcd6cde0d42a717b8c4cdfb0288",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/4570997359857c886f24e126ee1f5d03e21b4dcd6cde0d42a717b8c4cdfb0288/Microsoft.VC.14.42.17.12.MFC.MBCS.base.vsix",
+          "sizeCatalog": 27739626
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.MBCS.Debug.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.MBCS.Debug.base.vsix",
+          "size": 29546631,
+          "sha256": "dc0241d3b68401a6a2a0c08710f0a28123291c33056daff052d5addb4435a9b1",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/dc0241d3b68401a6a2a0c08710f0a28123291c33056daff052d5addb4435a9b1/Microsoft.VC.14.42.17.12.MFC.MBCS.Debug.base.vsix",
+          "sizeCatalog": 29969213
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.MBCS.X64.Debug.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.MBCS.X64.Debug.base.vsix",
+          "size": 33172250,
+          "sha256": "d9fbf36a4bf6e83d67cd4f32c7f13cb7dc49d57bef05bbbb35e1a35d5df1678a",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/d9fbf36a4bf6e83d67cd4f32c7f13cb7dc49d57bef05bbbb35e1a35d5df1678a/Microsoft.VC.14.42.17.12.MFC.MBCS.X64.Debug.base.vsix",
+          "sizeCatalog": 33672046
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.MBCS.X64.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.MBCS.X64.base.vsix",
+          "size": 30356908,
+          "sha256": "dfdefe8e1f97634e9c5460899c836b4387c54a93497f33ac49b4406f62775743",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/dfdefe8e1f97634e9c5460899c836b4387c54a93497f33ac49b4406f62775743/Microsoft.VC.14.42.17.12.MFC.MBCS.X64.base.vsix",
+          "sizeCatalog": 30712397
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.MBCS.X64",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.MBCS.X64.vsix",
+          "size": 8738,
+          "sha256": "1483f8a185805b836c861481e7f09f5b576c214568d96189d6592243cac96e22",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/1483f8a185805b836c861481e7f09f5b576c214568d96189d6592243cac96e22/Microsoft.VC.14.42.17.12.MFC.MBCS.X64.vsix",
+          "sizeCatalog": 1066
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.Redist.X64",
+      "version": "14.42.34438",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.Redist.X64.vsix",
+          "size": 8684,
+          "sha256": "fe354b598c7571f5499cd28c4dffd8de8319d05508149e1fabc7a5fcf9402d66",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/53b2bf3d-716a-455a-bcc0-39cfb7447fe0/fe354b598c7571f5499cd28c4dffd8de8319d05508149e1fabc7a5fcf9402d66/Microsoft.VC.14.42.17.12.MFC.Redist.X64.vsix",
+          "sizeCatalog": 1067
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.Redist.X64.base",
+      "version": "14.42.34438",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.Redist.X64.base.vsix",
+          "size": 13719179,
+          "sha256": "564a3924a2c2d50c09b1c4b688779ef398735f9fda17a0e5976661244a6ac5e4",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/53b2bf3d-716a-455a-bcc0-39cfb7447fe0/564a3924a2c2d50c09b1c4b688779ef398735f9fda17a0e5976661244a6ac5e4/Microsoft.VC.14.42.17.12.MFC.Redist.X64.base.vsix",
+          "sizeCatalog": 13822824
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.Redist.X86",
+      "version": "14.42.34438",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.Redist.X86.vsix",
+          "size": 8682,
+          "sha256": "61e607b5a98eb20f0221c85aa9596559a7724f238b87660e1fdccfbb4cf4481a",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/53b2bf3d-716a-455a-bcc0-39cfb7447fe0/61e607b5a98eb20f0221c85aa9596559a7724f238b87660e1fdccfbb4cf4481a/Microsoft.VC.14.42.17.12.MFC.Redist.X86.vsix",
+          "sizeCatalog": 1067
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.Redist.X86.base",
+      "version": "14.42.34438",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.Redist.X86.base.vsix",
+          "size": 13290425,
+          "sha256": "b37530839569b59f1e9b6d4bd55c6560db3e89c7f9ceafd64fc28dcbd9457c65",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/53b2bf3d-716a-455a-bcc0-39cfb7447fe0/b37530839569b59f1e9b6d4bd55c6560db3e89c7f9ceafd64fc28dcbd9457c65/Microsoft.VC.14.42.17.12.MFC.Redist.X86.base.vsix",
+          "sizeCatalog": 13323227
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.Source",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.Source.vsix",
+          "size": 8700,
+          "sha256": "a2d8efb2611f3d505af4e402ef2751c59ecd2eb60efc0a019cd3717f2e0dd0b3",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/a2d8efb2611f3d505af4e402ef2751c59ecd2eb60efc0a019cd3717f2e0dd0b3/Microsoft.VC.14.42.17.12.MFC.Source.vsix",
+          "sizeCatalog": 1062
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.Source.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.Source.base.vsix",
+          "size": 2317704,
+          "sha256": "83d06bee944f5b1d836ad18c27d07fde8c085edb32291f099b17e655dabde3ff",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/83d06bee944f5b1d836ad18c27d07fde8c085edb32291f099b17e655dabde3ff/Microsoft.VC.14.42.17.12.MFC.Source.base.vsix",
+          "sizeCatalog": 2304358
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.X64",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.X64.vsix",
+          "size": 8685,
+          "sha256": "650955ca62d9f4372be0b8112e1d1e649824651e53f8a54443a39a23cdb70b38",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/650955ca62d9f4372be0b8112e1d1e649824651e53f8a54443a39a23cdb70b38/Microsoft.VC.14.42.17.12.MFC.X64.vsix",
+          "sizeCatalog": 1061
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.X64.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.X64.base.vsix",
+          "size": 32997270,
+          "sha256": "640c8c06b9916eb7352a81eb588ae3fd86c57597349a570a847ba2d617553832",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/640c8c06b9916eb7352a81eb588ae3fd86c57597349a570a847ba2d617553832/Microsoft.VC.14.42.17.12.MFC.X64.base.vsix",
+          "sizeCatalog": 33372828
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.X64.Debug.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.X64.Debug.base.vsix",
+          "size": 35432898,
+          "sha256": "cd889cfa4a017f907ad242dc3c6710eef4fb2fc764b9112810f23b38a4953c7c",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/cd889cfa4a017f907ad242dc3c6710eef4fb2fc764b9112810f23b38a4953c7c/Microsoft.VC.14.42.17.12.MFC.X64.Debug.base.vsix",
+          "sizeCatalog": 35955827
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.X86",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.X86.vsix",
+          "size": 8732,
+          "sha256": "1c29b3dc746aef018c10558e0a34ed3a39fefe5724b631a5fbc1afc4aef8932d",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/1c29b3dc746aef018c10558e0a34ed3a39fefe5724b631a5fbc1afc4aef8932d/Microsoft.VC.14.42.17.12.MFC.X86.vsix",
+          "sizeCatalog": 1062
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.X86.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.X86.base.vsix",
+          "size": 30062779,
+          "sha256": "a7ba3d22f314eaefb95287d4d7bf9b75fa3236ae9428330693c007e76c9895a5",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/a7ba3d22f314eaefb95287d4d7bf9b75fa3236ae9428330693c007e76c9895a5/Microsoft.VC.14.42.17.12.MFC.X86.base.vsix",
+          "sizeCatalog": 30480233
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VC.14.42.17.12.MFC.X86.Debug.base",
+      "version": "14.42.34433",
+      "type": "Vsix",
+      "payloads": [
+        {
+          "fileName": "Microsoft.VC.14.42.17.12.MFC.X86.Debug.base.vsix",
+          "size": 32046412,
+          "sha256": "7152d49e7c43ad62f34a3c978e2831b5900aa1b1a47bfb8cf3a60d6dbb23e03f",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/27d644ce-f00b-40cc-b93c-7be5ae10995a/7152d49e7c43ad62f34a3c978e2831b5900aa1b1a47bfb8cf3a60d6dbb23e03f/Microsoft.VC.14.42.17.12.MFC.X86.Debug.base.vsix",
+          "sizeCatalog": 32495754
+        }
+      ]
+    },
+    {
+      "id": "Microsoft.VisualCpp.HTMLHelpWorkshop.Msi",
+      "version": "4.74.8702.1",
+      "type": "Msi",
+      "payloads": [
+        {
+          "fileName": "VC_HTML_Help_Workshop.msi",
+          "size": 188416,
+          "sha256": "26c9efe253635f82082d9c822205fdf38419a8bb5bb6dc7a7ac8cf8e8a4b9941",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/25fdf4b7-eb6a-4d83-8b6b-ae142bff1e07/26c9efe253635f82082d9c822205fdf38419a8bb5bb6dc7a7ac8cf8e8a4b9941/VC_HTML_Help_Workshop.msi",
+          "sizeCatalog": 188416
+        },
+        {
+          "fileName": "cab1.cab",
+          "size": 584207,
+          "sha256": "77363339b34c627882d3e50540005c9ad4625f352167b3a8c164de169a44ec56",
+          "url": "https://download.visualstudio.microsoft.com/download/pr/25fdf4b7-eb6a-4d83-8b6b-ae142bff1e07/77363339b34c627882d3e50540005c9ad4625f352167b3a8c164de169a44ec56/cab1.cab",
+          "sizeCatalog": 584207
+        }
+      ]
+    }
+  ]
+}

@@ -38,6 +38,7 @@ connect-my-innernet/
 │       ├── inner_context.md  # [内网提供] 从二维码/拍照解析出的原始报错、代码或内网问题
 │       ├── outer_answer.md   # [外网提供] 外网 Agent 搜索整理的解决方案、分析结论与操作步骤
 │       └── patches/          # [可选，外网提供] 供内网直接替换或应用的代码文件、补丁、脚本
+├── offline/                  # 体积大的官方离线包。明文不入库；用 .secret_key 加密后按 <100MB 分片提交，内网跑各目录的 unpack.sh
 └── archives/                 # 外网长期调研与归档区（仅留存外网本地，不打包进 payload.enc，也不受自动清理影响）
     └── <序号或日期>_<调研主题>/
         ├── inner_context.md  # [内网带出] 调研背景、调用链路或问题上下文

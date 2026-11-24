@@ -19,5 +19,8 @@ archives/*
 *.webp
 qr_temp/
 
+# 离线包在内网解密后的明文目录（体积大，不入库；密文分片在 offline/ 下入库）
+offline/**/MFC1442/
+
 # macOS 系统文件
 .DS_Store
